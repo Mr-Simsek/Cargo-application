@@ -1,0 +1,5 @@
+kargo.rf.gd
+
+
+kulanıcı adı:admin
+şifre : 1234
